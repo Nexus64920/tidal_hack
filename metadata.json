@@ -1,0 +1,8 @@
+{
+  "name": "Optivize AI Ergonomics",
+  "description": "An intelligent workspace assistant that uses Gemini Live to monitor your neck posture, screen proximity, and eye health to suggest timely breaks and prevent digital eye strain.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
